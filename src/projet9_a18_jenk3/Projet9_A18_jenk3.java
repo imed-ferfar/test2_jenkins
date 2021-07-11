@@ -17,6 +17,7 @@ public class Projet9_A18_jenk3 {
     public static void main(String[] args) {
         System.out.println("Bonjour " + args[1] + ", " + args[0]);
         System.out.println("Merci!");
+        System.out.println("Au revoir !!!");
     }
 
 }
